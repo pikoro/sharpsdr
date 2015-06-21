@@ -1,0 +1,1 @@
+This folder may have had something to do with the original CVS import. No one else on the mailing list knew what it was either, but it was decided that we aught to keep it in tags, rather than branges, where it was originally. It was originally called "pateam" and before I touched it it was last touched by "anonymous" in 2002ish. -Bjorn Roche
